@@ -10,10 +10,6 @@
 
 Introducing a sophisticated multi-currency arbitrage bot engineered for executing complex arbitrage operations across multiple currency pairs. The system implements trading chains consisting of 4-5 pairs, following the pattern: **USDT → BTC → SOL → (XPR optional) → USDT**, where both the initial and final token remain USDT to safeguard portfolio stability during operation.
 
-I'm sharing this project because its profitability fell short of expectations during release testing. The bot is designed to maximize profit while minimizing risks, targeting a profit threshold of 2.5% per arbitrage opportunity.
-
-I'm now pivoting to develop a more advanced project focused on automated trading in spot and futures markets using machine learning and neural networks.
-
 ### ⚡ OPERATIONAL PRINCIPLES
 
 - Processes trading chains of 4-5 pairs
